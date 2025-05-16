@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hello GitHub!</h1>
 <p align="center"><strong>📍 Workshop by <a href="https://github.com/vinitshahdeo">@vinitshahdeo</a> at Microsoft, Bengaluru</strong></p>
+<p align="center"><a href="https://github.com/vinitshahdeo"><img src="https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=social"/></a>
+</p>
 <br/><br/>
 
 Join this hands-on session to explore GitHub best practices, open-source contributions, and tips to boost your developer journey.
