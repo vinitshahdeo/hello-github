@@ -5,7 +5,7 @@
 Join this hands-on session to explore GitHub best practices, open-source contributions, and tips to boost your developer journey.
 
 - 🔗 Event Details & Registration → [Click here](https://reskilll.com/event/aiaiblr)!
-- 📥 Download Workshop PPT
+- 📥 [Download](https://github.com/vinitshahdeo/hello-github/blob/main/ppt/Hello%20GitHub%20-%20By%20Vinit%20Shahdeo.pdf?raw=true) Workshop PPT
 - ⭐ Stay Connected: [GitHub](https://github.com/vinitshahdeo) | [𝕏 aka Twitter](https://x.com/vinit_shahdeo) | [LinkedIn](https://www.linkedin.com/in/vinitshahdeo)
 
 ![banner - @vinitshahdeo](media/banner.png)
