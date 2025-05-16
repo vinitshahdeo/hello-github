@@ -7,3 +7,5 @@ Join this hands-on session to explore GitHub best practices, open-source contrib
 - 🔗 Event Details & Registration → [Click here](https://reskilll.com/event/aiaiblr)!
 - 📥 Download Workshop PPT
 - ⭐ Stay Connected: [GitHub](https://github.com/vinitshahdeo) | [𝕏 aka Twitter](https://x.com/vinit_shahdeo) | [LinkedIn](https://www.linkedin.com/in/vinitshahdeo)
+
+![banner - @vinitshahdeo](media/banner.png)
